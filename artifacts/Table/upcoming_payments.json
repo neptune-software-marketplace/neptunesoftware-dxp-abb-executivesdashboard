@@ -1,0 +1,29 @@
+{
+	"id": "5510c4a3-9095-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-16T11:26:41.603Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"fields": [
+		{
+			"id": "6ba2c43e-794e-4dff-bd9f-6f85bebb1d6b",
+			"fieldName": "upcoming",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "0cc76537-0305-483e-cabf-503120e4bbea",
+			"fieldName": "amount",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "upcoming_payments",
+	"description": null,
+	"ver": "23.1.16.1126",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"rolesRead": [],
+	"rolesWrite": []
+}

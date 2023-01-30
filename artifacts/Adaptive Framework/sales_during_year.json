@@ -1,0 +1,126 @@
+{
+	"id": "00fce620-5c96-ed11-9f5f-0022489f9819",
+	"createdAt": "2023-01-17T11:43:16.180Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"settings": {
+		"properties": {
+			"report": {
+				"paginationRows": "15",
+				"updateTime": 0,
+				"initialGroupField": "sales"
+			},
+			"form": {
+				"enableCompact": false,
+				"showFilter": false
+			},
+			"table": {
+				"titleAlign": "center",
+				"chartHeight": "320",
+				"chartType": "areaspline",
+				"enableSorting": false,
+				"enableMonochrome": true,
+				"pieInnerSize": 0,
+				"enable3D": false,
+				"alpha3D": 0,
+				"beta3D": 0,
+				"depth3D": 100,
+				"legendEnable": true,
+				"legendAlign": "center",
+				"legendVerticalAlign": "bottom",
+				"legendLayout": "horizontal",
+				"xAxisTitleEnable": true,
+				"xAxisReversed": false,
+				"xAxisStartOnTick": true,
+				"xAxisGridLineWidth": 0,
+				"yAxisTitleEnable": true,
+				"yAxisReversed": false,
+				"yAxisStartOnTick": true,
+				"yAxisGridLineWidth": 1,
+				"colorMonochrome": "#003e52"
+			}
+		},
+		"fieldCatalog": [
+			{
+				"name": "month",
+				"label": "month",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "sales",
+				"label": "sales",
+				"type": "integer",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedAt",
+				"label": "Updated At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdAt",
+				"label": "Created At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedBy",
+				"label": "Updated By",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdBy",
+				"label": "Created By",
+				"type": "text",
+				"usage": "BOTH"
+			}
+		],
+		"fieldsSel": [],
+		"fieldsRun": [
+			{
+				"visible": true,
+				"name": "month",
+				"text": "Value",
+				"fieldPos": 1,
+				"type": "category"
+			},
+			{
+				"visible": true,
+				"name": "sales",
+				"text": "sales",
+				"enableFilter": false,
+				"fieldPos": 2,
+				"type": "value"
+			}
+		],
+		"defaultVariant": {
+			"id": "57136d47-2144-4d57-c907-fe387b3e56f0",
+			"colOrder": "key_a_to_z",
+			"rowOrder": "key_a_to_z",
+			"row": [],
+			"column": [],
+			"val": [],
+			"inclusions": {},
+			"exclusions": {}
+		}
+	},
+	"name": "sales_during_year",
+	"description": "",
+	"group": "",
+	"type": "C",
+	"connectorid": "1b5aece6-7f92-ed11-9f5f-000d3a66e586",
+	"scriptSel": null,
+	"scriptRun": null,
+	"tableid": null,
+	"ver": "23.1.17.1223",
+	"disabled": false,
+	"appType": "A",
+	"application": "planet9_adaptive_tile_chart",
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"roles": [],
+	"scriptSelObj": null,
+	"scriptRunObj": null,
+	"tableObj": null
+}

@@ -1,0 +1,84 @@
+{
+	"id": "a3d8e24f-6092-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-12T10:03:08.323Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"extUserRoles": [],
+	"extUserDepartments": [],
+	"catOrder": [
+		"d26013c1-8d92-ed11-9f5f-000d3a66e586"
+	],
+	"layout": [
+		{
+			"id": "95571298-26b6-4153-d12a-8390fc04f8a9",
+			"css": [
+				"==OBJECT STRING==",
+				".sapFCard {",
+				"    border-radius: 1rem;",
+				"}"
+			],
+			"name": "Layout",
+			"active": true,
+			"style": "<style>.sapFCard {    border-radius: 1rem;}</style>",
+			"shellContentWidth": "Full",
+			"cardContentAlign": "",
+			"headerContentWidth": "Full",
+			"ui5Theme": "sap_fiori_3"
+		}
+	],
+	"config": {
+		"enhancement": ""
+	},
+	"enhancement": [],
+	"name": "executives_dashboard",
+	"title": "Executives Dashboard",
+	"description": null,
+	"startApp": null,
+	"startWebApp": null,
+	"customLogo": null,
+	"launchpadApp": "planet9_launchpad_standard",
+	"hideSidemenu": false,
+	"ui5Version": null,
+	"ui5Url": null,
+	"ui5Theme": null,
+	"header": null,
+	"customTheme": null,
+	"isExternal": false,
+	"emailPattern": null,
+	"loginApp": null,
+	"enableNotifications": false,
+	"firebaseProjectId": null,
+	"firebaseAppId": null,
+	"defaultLoginIDP": null,
+	"publicAccess": false,
+	"css": null,
+	"clientRequestTimeout": 120,
+	"limitWidth": false,
+	"searchBackgroundType": null,
+	"searchBackgroundColor": null,
+	"searchBackgroundShade": null,
+	"usedBackgroundType": null,
+	"usedBackgroundColor": null,
+	"usedBackgroundShade": null,
+	"searchEnableShadeCalc": null,
+	"usedEnableShadeCalc": null,
+	"enableTrace": false,
+	"ver": "23.1.13.1037",
+	"pwa_enable": false,
+	"pwa_customImageIos": null,
+	"pwa_customImageAndroidOld": null,
+	"pwa_customImageAndroidNew": null,
+	"pwa_displayMode": null,
+	"pwa_themeColor": null,
+	"pwa_backgroundColor": null,
+	"passwordResetEmail": null,
+	"activationCodeEmail": null,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"cat": [
+		{
+			"id": "d26013c1-8d92-ed11-9f5f-000d3a66e586",
+			"name": "executives_dashboard",
+			"title": "Dashboard",
+			"ver": "23.1.17.1220"
+		}
+	]
+}

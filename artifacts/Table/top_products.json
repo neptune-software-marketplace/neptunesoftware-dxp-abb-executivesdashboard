@@ -1,0 +1,29 @@
+{
+	"id": "0911c8c6-6492-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-12T10:35:09.490Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"fields": [
+		{
+			"id": "bbe01143-e49c-4daf-9a93-2c93b28816af",
+			"fieldName": "Products",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "ae5db825-bb5d-48a4-8c83-454be2bd6e44",
+			"fieldName": "Units",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "top_products",
+	"description": null,
+	"ver": "23.1.12.1035",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"rolesRead": [],
+	"rolesWrite": []
+}

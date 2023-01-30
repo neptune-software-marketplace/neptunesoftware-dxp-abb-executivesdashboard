@@ -1,0 +1,17 @@
+{
+	"id": "06b76dd9-9095-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-16T11:28:08.406Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"settings": {
+		"tableid": "5510c4a3-9095-ed11-9f5f-000d3a66e586",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "upcoming_payments",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "23.1.16.1128",
+	"disabled": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586"
+}

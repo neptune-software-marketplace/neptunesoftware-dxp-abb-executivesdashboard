@@ -1,0 +1,126 @@
+{
+	"id": "85dfb4ef-5c96-ed11-9f5f-0022489f9819",
+	"createdAt": "2023-01-17T11:49:03.136Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"settings": {
+		"properties": {
+			"report": {
+				"paginationRows": 10,
+				"updateTime": 0,
+				"initialGroupField": "Invoice"
+			},
+			"form": {
+				"enableCompact": false,
+				"showFilter": false
+			},
+			"table": {
+				"titleAlign": "center",
+				"chartHeight": "320",
+				"chartType": "line",
+				"enableSorting": false,
+				"enableMonochrome": true,
+				"pieInnerSize": 0,
+				"enable3D": false,
+				"alpha3D": 0,
+				"beta3D": 0,
+				"depth3D": 100,
+				"legendEnable": true,
+				"legendAlign": "center",
+				"legendVerticalAlign": "bottom",
+				"legendLayout": "horizontal",
+				"xAxisTitleEnable": true,
+				"xAxisReversed": false,
+				"xAxisStartOnTick": true,
+				"xAxisGridLineWidth": 0,
+				"yAxisTitleEnable": true,
+				"yAxisReversed": false,
+				"yAxisStartOnTick": true,
+				"yAxisGridLineWidth": 1,
+				"title": "Paid Invoices",
+				"colorMonochrome": "#003e52"
+			}
+		},
+		"fieldCatalog": [
+			{
+				"name": "Invoice",
+				"label": "Invoice",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "amount",
+				"label": "amount",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedAt",
+				"label": "Updated At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdAt",
+				"label": "Created At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedBy",
+				"label": "Updated By",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdBy",
+				"label": "Created By",
+				"type": "text",
+				"usage": "BOTH"
+			}
+		],
+		"fieldsSel": [],
+		"fieldsRun": [
+			{
+				"visible": true,
+				"name": "Invoice",
+				"text": "Invoice",
+				"fieldPos": 1,
+				"type": "category"
+			},
+			{
+				"visible": true,
+				"name": "amount",
+				"text": "amount",
+				"fieldPos": 2,
+				"type": "value"
+			}
+		],
+		"defaultVariant": {
+			"id": "2117f370-5562-4c60-fab7-ff6c5fbcd720",
+			"colOrder": "key_a_to_z",
+			"rowOrder": "key_a_to_z",
+			"row": [],
+			"column": [],
+			"val": [],
+			"inclusions": {},
+			"exclusions": {}
+		}
+	},
+	"name": "invoices_paid",
+	"description": "",
+	"group": "",
+	"type": "C",
+	"connectorid": "035175eb-8f95-ed11-9f5f-000d3a66e586",
+	"scriptSel": null,
+	"scriptRun": null,
+	"tableid": null,
+	"ver": "23.1.26.1033",
+	"disabled": false,
+	"appType": "A",
+	"application": "planet9_adaptive_tile_chart",
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"roles": [],
+	"scriptSelObj": null,
+	"scriptRunObj": null,
+	"tableObj": null
+}

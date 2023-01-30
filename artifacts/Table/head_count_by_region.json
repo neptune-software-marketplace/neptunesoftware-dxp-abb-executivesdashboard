@@ -1,0 +1,29 @@
+{
+	"id": "db101ff3-8d95-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-16T11:07:26.620Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"fields": [
+		{
+			"id": "a6269355-e2ea-4d30-b96c-eefc47067179",
+			"fieldName": "Region",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "a7797baf-e6d3-45fc-811c-fbe26e91dc12",
+			"fieldName": "HeadCount",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "head_count_by_region",
+	"description": null,
+	"ver": "23.1.16.117",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"rolesRead": [],
+	"rolesWrite": []
+}

@@ -1,0 +1,17 @@
+{
+	"id": "035175eb-8f95-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-16T11:21:29.163Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"settings": {
+		"tableid": "d21a1dab-8f95-ed11-9f5f-000d3a66e586",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "invoices_paid",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "23.1.16.1121",
+	"disabled": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586"
+}

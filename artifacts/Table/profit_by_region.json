@@ -1,0 +1,29 @@
+{
+	"id": "de80ecef-6092-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-12T10:07:40.326Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"fields": [
+		{
+			"id": "c2d22f70-4da5-4617-a4d1-5d6b6812b923",
+			"fieldName": "Region",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "33b9ea0d-a995-45a4-e6d6-c2ac4dadae2f",
+			"fieldName": "Profit",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "profit_by_region",
+	"description": null,
+	"ver": "23.1.12.107",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"rolesRead": [],
+	"rolesWrite": []
+}

@@ -1,0 +1,17 @@
+{
+	"id": "1b5aece6-7f92-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-12T13:49:16.106Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"settings": {
+		"tableid": "7101a543-7f92-ed11-9f5f-000d3a66e586",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "sales_during_year",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "23.1.12.1349",
+	"disabled": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586"
+}

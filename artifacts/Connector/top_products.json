@@ -1,0 +1,17 @@
+{
+	"id": "5b5968fc-6592-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-12T10:43:45.253Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"settings": {
+		"tableid": "0911c8c6-6492-ed11-9f5f-000d3a66e586",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "top_products",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "23.1.12.1043",
+	"disabled": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586"
+}

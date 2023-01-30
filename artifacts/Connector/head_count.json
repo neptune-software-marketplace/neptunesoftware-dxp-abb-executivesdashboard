@@ -1,0 +1,17 @@
+{
+	"id": "f246e832-8e95-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-16T11:09:10.030Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"settings": {
+		"tableid": "db101ff3-8d95-ed11-9f5f-000d3a66e586",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "head_count",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "23.1.16.119",
+	"disabled": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586"
+}

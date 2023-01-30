@@ -1,0 +1,35 @@
+{
+	"id": "c1f3456b-5c92-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-12T09:35:22.203Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"fields": [
+		{
+			"id": "37a91efe-9e84-4501-a651-c0c2ea5bc715",
+			"fieldName": "Region",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "5726bde6-eeec-45b9-9f6e-ce0ec391c67f",
+			"fieldName": "ACT",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "29e2de2c-c465-45c5-ed8e-4c3d8f4959de",
+			"fieldName": "BUD",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "revenue_by_region",
+	"description": null,
+	"ver": "23.1.12.938",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"rolesRead": [],
+	"rolesWrite": []
+}

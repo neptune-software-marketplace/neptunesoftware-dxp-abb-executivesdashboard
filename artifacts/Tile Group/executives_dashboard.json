@@ -1,0 +1,104 @@
+{
+	"id": "d26013c1-8d92-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-12T15:28:25.603Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"translation": [],
+	"tilesOrder": [
+		"597e6c1e-6092-ed11-9f5f-000d3a66e586",
+		"08c6d9e0-6692-ed11-9f5f-000d3a66e586",
+		"abe9ef52-6792-ed11-9f5f-000d3a66e586"
+	],
+	"tilegroupsOrder": [
+		"b5f3617c-8292-ed11-9f5f-000d3a66e586",
+		"97c48e3a-8f92-ed11-9f5f-000d3a66e586"
+	],
+	"configMessage": {
+		"type": "None"
+	},
+	"title": "Dashboard",
+	"subTitle": null,
+	"description": null,
+	"titleAlignment": null,
+	"enableFullScreen": false,
+	"hideHeader": true,
+	"backgroundType": "cards",
+	"backgroundColor": "",
+	"backgroundShade": null,
+	"type": null,
+	"image": null,
+	"icon": null,
+	"sort": null,
+	"inclFav": false,
+	"styleClass": null,
+	"enableScroll": false,
+	"enableShadeCalc": false,
+	"numTiles": null,
+	"enableMessage": false,
+	"ver": "23.1.17.1220",
+	"headColor": null,
+	"headTxtClr": null,
+	"subheadTxtClr": null,
+	"headBorderClr": null,
+	"headBorderWidth": null,
+	"imageTablet": null,
+	"imageMobile": null,
+	"imageCover": false,
+	"imageTabletCover": false,
+	"imageMobileCover": false,
+	"imageMobileHeight": null,
+	"imageTabletHeight": null,
+	"imageHeight": null,
+	"name": "executives_dashboard",
+	"cardContentWidth": null,
+	"cardContentAlign": null,
+	"cardPerRow": "",
+	"cardStyle": null,
+	"cardHeightFit": false,
+	"imagePlacement": null,
+	"imageRepeat": null,
+	"imageSize": null,
+	"imageTabletPlacement": null,
+	"imageTabletRepeat": null,
+	"imageTabletSize": null,
+	"imageMobilePlacement": null,
+	"imageMobileRepeat": null,
+	"imageMobileSize": null,
+	"hideFromMenu": false,
+	"roleTag": null,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"roles": [],
+	"tiles": [
+		{
+			"id": "abe9ef52-6792-ed11-9f5f-000d3a66e586",
+			"name": "profit_by_country",
+			"title": null,
+			"ver": "23.1.12.1340"
+		},
+		{
+			"id": "597e6c1e-6092-ed11-9f5f-000d3a66e586",
+			"name": "revenue_by_region",
+			"title": null,
+			"ver": "23.1.17.1218"
+		},
+		{
+			"id": "08c6d9e0-6692-ed11-9f5f-000d3a66e586",
+			"name": "top_products",
+			"title": null,
+			"ver": "23.1.17.1222"
+		}
+	],
+	"tilegroups": [
+		{
+			"id": "b5f3617c-8292-ed11-9f5f-000d3a66e586",
+			"name": "sales_during_year",
+			"title": null,
+			"ver": "23.1.17.1222"
+		},
+		{
+			"id": "97c48e3a-8f92-ed11-9f5f-000d3a66e586",
+			"name": "revenue_FTE",
+			"title": null,
+			"ver": "23.1.17.1223"
+		}
+	]
+}

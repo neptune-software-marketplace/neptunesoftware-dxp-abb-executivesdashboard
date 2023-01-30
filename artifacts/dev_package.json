@@ -1,0 +1,257 @@
+{
+	"id": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-12T09:32:23.936Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-executivesdashboard"
+	},
+	"name": "neptunesoftware-dxp-abb-executivesdashboard",
+	"description": "Dashboards for decision makers",
+	"ver": "23.1.30.1559",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "de80ecef-6092-ed11-9f5f-000d3a66e586",
+			"name": "profit_by_region",
+			"description": null
+		},
+		{
+			"id": "db101ff3-8d95-ed11-9f5f-000d3a66e586",
+			"name": "head_count_by_region",
+			"description": null
+		},
+		{
+			"id": "d555c4e5-7d92-ed11-9f5f-000d3a66e586",
+			"name": "profit_by_country",
+			"description": null
+		},
+		{
+			"id": "d21a1dab-8f95-ed11-9f5f-000d3a66e586",
+			"name": "invoices_paid",
+			"description": null
+		},
+		{
+			"id": "c1f3456b-5c92-ed11-9f5f-000d3a66e586",
+			"name": "revenue_by_region",
+			"description": null
+		},
+		{
+			"id": "7101a543-7f92-ed11-9f5f-000d3a66e586",
+			"name": "sales_during_year",
+			"description": null
+		},
+		{
+			"id": "5510c4a3-9095-ed11-9f5f-000d3a66e586",
+			"name": "upcoming_payments",
+			"description": null
+		},
+		{
+			"id": "0911c8c6-6492-ed11-9f5f-000d3a66e586",
+			"name": "top_products",
+			"description": null
+		}
+	],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [
+		{
+			"id": "e1632460-7e92-ed11-9f5f-000d3a66e586",
+			"name": "profit_by_country",
+			"description": "",
+			"application": "planet9_adaptive_tile_table"
+		},
+		{
+			"id": "def1db0a-5b96-ed11-9f5f-0022489f9819",
+			"name": "profit_by_region",
+			"description": "",
+			"application": "planet9_adaptive_tile_chart"
+		},
+		{
+			"id": "d4d93ce5-9095-ed11-9f5f-000d3a66e586",
+			"name": "upcoming_payments",
+			"description": "",
+			"application": "planet9_adaptive_tile_chart"
+		},
+		{
+			"id": "85dfb4ef-5c96-ed11-9f5f-0022489f9819",
+			"name": "invoices_paid",
+			"description": "",
+			"application": "planet9_adaptive_tile_chart"
+		},
+		{
+			"id": "83ef10e4-8e92-ed11-9f5f-000d3a66e586",
+			"name": "revenue_per_FTE",
+			"description": "",
+			"application": "planet9_adaptive_tile_chart"
+		},
+		{
+			"id": "55665396-5c96-ed11-9f5f-0022489f9819",
+			"name": "head_count_by_region",
+			"description": "",
+			"application": "planet9_adaptive_tile_chart"
+		},
+		{
+			"id": "214ab5d7-5b96-ed11-9f5f-0022489f9819",
+			"name": "top_products",
+			"description": "",
+			"application": "planet9_adaptive_tile_chart"
+		},
+		{
+			"id": "03c7ca5e-5b96-ed11-9f5f-0022489f9819",
+			"name": "revenue_by_region",
+			"description": "",
+			"application": "planet9_adaptive_tile_table"
+		},
+		{
+			"id": "00fce620-5c96-ed11-9f5f-0022489f9819",
+			"name": "sales_during_year",
+			"description": "",
+			"application": "planet9_adaptive_tile_chart"
+		}
+	],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "f3a21242-8292-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "sales_during_year"
+		},
+		{
+			"id": "e4ef2cb1-8e95-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "head_count_by_region"
+		},
+		{
+			"id": "abe9ef52-6792-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "profit_by_country"
+		},
+		{
+			"id": "a697a57c-6292-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "profit_by_region"
+		},
+		{
+			"id": "8b5d9149-9095-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "invoice_paid"
+		},
+		{
+			"id": "597e6c1e-6092-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "revenue_by_region"
+		},
+		{
+			"id": "342e401c-9195-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "upcoming_payments"
+		},
+		{
+			"id": "261e8631-8f92-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "revenue_per_FTE"
+		},
+		{
+			"id": "159352b5-6096-ed11-9f5f-0022489f9819",
+			"description": null,
+			"name": "Executives dashboard"
+		},
+		{
+			"id": "08c6d9e0-6692-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "top_products"
+		}
+	],
+	"category": [
+		{
+			"id": "d26013c1-8d92-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "executives_dashboard"
+		},
+		{
+			"id": "b5f3617c-8292-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "sales_during_year"
+		},
+		{
+			"id": "97c48e3a-8f92-ed11-9f5f-000d3a66e586",
+			"description": null,
+			"name": "revenue_FTE"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "a3d8e24f-6092-ed11-9f5f-000d3a66e586",
+			"name": "executives_dashboard",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [
+		{
+			"id": "f246e832-8e95-ed11-9f5f-000d3a66e586",
+			"name": "head_count",
+			"description": null
+		},
+		{
+			"id": "82edd047-7e92-ed11-9f5f-000d3a66e586",
+			"name": "profit_by_country",
+			"description": null
+		},
+		{
+			"id": "5b5968fc-6592-ed11-9f5f-000d3a66e586",
+			"name": "top_products",
+			"description": null
+		},
+		{
+			"id": "4ef0588e-5d92-ed11-9f5f-000d3a66e586",
+			"name": "revenue_by_region",
+			"description": null
+		},
+		{
+			"id": "4977a902-6192-ed11-9f5f-000d3a66e586",
+			"name": "profit_by_region",
+			"description": null
+		},
+		{
+			"id": "1b5aece6-7f92-ed11-9f5f-000d3a66e586",
+			"name": "sales_during_year",
+			"description": null
+		},
+		{
+			"id": "06b76dd9-9095-ed11-9f5f-000d3a66e586",
+			"name": "upcoming_payments",
+			"description": null
+		},
+		{
+			"id": "035175eb-8f95-ed11-9f5f-000d3a66e586",
+			"name": "invoices_paid",
+			"description": null
+		}
+	],
+	"events": [],
+	"media_library": [
+		{
+			"id": "33665546-B7A0-ED11-994A-0022489F9953",
+			"updatedAt": "2023-01-30T16:00:54.786Z",
+			"name": "Executives Dashboard",
+			"parent": null,
+			"package": "F5BA8704-5C92-ED11-9F5F-000D3A66E586"
+		}
+	]
+}

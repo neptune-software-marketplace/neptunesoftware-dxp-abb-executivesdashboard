@@ -1,0 +1,142 @@
+{
+	"id": "e1632460-7e92-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-12T13:38:20.523Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"settings": {
+		"properties": {
+			"report": {
+				"paginationRows": 10,
+				"updateTime": 0,
+				"iconButtonCreate": "",
+				"textButtonCreate": "Create",
+				"typeButtonCreate": "Emphasized",
+				"iconButtonRun": "",
+				"textButtonRun": "Update",
+				"typeButtonRun": "Emphasized",
+				"searchLabel": "Search",
+				"searchPlaceholder": "",
+				"enableRun": false,
+				"enableCreate": false,
+				"enableDelete": false
+			},
+			"form": {
+				"enableCompact": false,
+				"filterExpandable": true,
+				"headerExpanded": true,
+				"showFilter": false
+			},
+			"table": {
+				"showSeparators": "All",
+				"alternateRowColors": false,
+				"enableCompact": false,
+				"fixedLayout": true,
+				"inset": false,
+				"initialSortOrder": "DESC",
+				"headerText": "Profit by country",
+				"titleAlign": "center",
+				"chartHeight": 250,
+				"chartType": "area",
+				"enableSorting": false,
+				"enableMonochrome": false,
+				"pieInnerSize": 0,
+				"enable3D": false,
+				"alpha3D": 0,
+				"beta3D": 0,
+				"depth3D": 100,
+				"legendEnable": true,
+				"legendAlign": "center",
+				"legendVerticalAlign": "bottom",
+				"legendLayout": "horizontal",
+				"xAxisTitleEnable": true,
+				"xAxisReversed": false,
+				"xAxisStartOnTick": true,
+				"xAxisGridLineWidth": 0,
+				"yAxisTitleEnable": true,
+				"yAxisReversed": false,
+				"yAxisStartOnTick": true,
+				"yAxisGridLineWidth": 1
+			}
+		},
+		"fieldCatalog": [
+			{
+				"name": "Profit",
+				"label": "Profit",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "country",
+				"label": "country",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdAt",
+				"label": "Created At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdBy",
+				"label": "Created By",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedAt",
+				"label": "Updated At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedBy",
+				"label": "Updated By",
+				"type": "text",
+				"usage": "BOTH"
+			}
+		],
+		"fieldsSel": [],
+		"fieldsRun": [
+			{
+				"visible": true,
+				"name": "country",
+				"text": "Country",
+				"fieldPos": 1
+			},
+			{
+				"visible": true,
+				"name": "Profit",
+				"text": "Profit",
+				"fieldPos": 2,
+				"formatter": "number00"
+			}
+		],
+		"defaultVariant": {
+			"id": "25e0806d-39d5-496d-a6a1-aecf2768a5f5",
+			"colOrder": "key_a_to_z",
+			"rowOrder": "key_a_to_z",
+			"row": [],
+			"column": [],
+			"val": [],
+			"inclusions": {},
+			"exclusions": {}
+		}
+	},
+	"name": "profit_by_country",
+	"description": "",
+	"group": "",
+	"type": "C",
+	"connectorid": "82edd047-7e92-ed11-9f5f-000d3a66e586",
+	"scriptSel": null,
+	"scriptRun": null,
+	"tableid": null,
+	"ver": "23.1.12.1351",
+	"disabled": false,
+	"appType": "A",
+	"application": "planet9_adaptive_tile_table",
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"roles": [],
+	"scriptSelObj": null,
+	"scriptRunObj": null,
+	"tableObj": null
+}

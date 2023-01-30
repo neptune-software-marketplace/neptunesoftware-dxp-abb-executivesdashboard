@@ -1,0 +1,17 @@
+{
+	"id": "82edd047-7e92-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-12T13:37:39.666Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"settings": {
+		"tableid": "d555c4e5-7d92-ed11-9f5f-000d3a66e586",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "profit_by_country",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "23.1.12.1337",
+	"disabled": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586"
+}

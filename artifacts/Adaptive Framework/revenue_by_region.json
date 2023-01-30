@@ -1,0 +1,154 @@
+{
+	"id": "03c7ca5e-5b96-ed11-9f5f-0022489f9819",
+	"createdAt": "2023-01-17T11:37:50.503Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"settings": {
+		"properties": {
+			"report": {
+				"paginationRows": 10,
+				"updateTime": 0,
+				"iconButtonCreate": "",
+				"textButtonCreate": "Create",
+				"typeButtonCreate": "Emphasized",
+				"iconButtonRun": "",
+				"textButtonRun": "Update",
+				"typeButtonRun": "Emphasized",
+				"searchLabel": "Search",
+				"searchPlaceholder": "",
+				"enableRun": false,
+				"enableCreate": false,
+				"enableDelete": false
+			},
+			"form": {
+				"enableCompact": false,
+				"showFilter": false,
+				"filterExpandable": true,
+				"headerExpanded": true
+			},
+			"table": {
+				"titleAlign": "center",
+				"chartHeight": 250,
+				"chartType": "column",
+				"enableSorting": false,
+				"enableMonochrome": false,
+				"pieInnerSize": 0,
+				"enable3D": false,
+				"alpha3D": 0,
+				"beta3D": 0,
+				"depth3D": 100,
+				"legendEnable": true,
+				"legendAlign": "center",
+				"legendVerticalAlign": "bottom",
+				"legendLayout": "horizontal",
+				"xAxisTitleEnable": true,
+				"xAxisReversed": false,
+				"xAxisStartOnTick": true,
+				"xAxisGridLineWidth": 0,
+				"yAxisTitleEnable": true,
+				"yAxisReversed": false,
+				"yAxisStartOnTick": true,
+				"yAxisGridLineWidth": 1,
+				"showSeparators": "All",
+				"alternateRowColors": false,
+				"enableCompact": false,
+				"fixedLayout": true,
+				"inset": false,
+				"headerText": "Revenue by Region"
+			}
+		},
+		"fieldCatalog": [
+			{
+				"name": "ACT",
+				"label": "ACT",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "BUD",
+				"label": "BUD",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "Region",
+				"label": "Region",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdAt",
+				"label": "Created At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdBy",
+				"label": "Created By",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedAt",
+				"label": "Updated At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedBy",
+				"label": "Updated By",
+				"type": "text",
+				"usage": "BOTH"
+			}
+		],
+		"fieldsSel": [],
+		"fieldsRun": [
+			{
+				"visible": true,
+				"name": "Region",
+				"text": "Region",
+				"fieldPos": 1
+			},
+			{
+				"visible": true,
+				"name": "ACT",
+				"text": "ACT",
+				"fieldPos": 2,
+				"formatter": "number00"
+			},
+			{
+				"visible": true,
+				"name": "BUD",
+				"text": "BUD",
+				"fieldPos": 3,
+				"formatter": "number00"
+			}
+		],
+		"defaultVariant": {
+			"id": "6198d185-fde9-4f80-edde-4a143d5afb4e",
+			"colOrder": "key_a_to_z",
+			"rowOrder": "key_a_to_z",
+			"row": [],
+			"column": [],
+			"val": [],
+			"inclusions": {},
+			"exclusions": {}
+		}
+	},
+	"name": "revenue_by_region",
+	"description": "",
+	"group": "",
+	"type": "C",
+	"connectorid": "4ef0588e-5d92-ed11-9f5f-000d3a66e586",
+	"scriptSel": null,
+	"scriptRun": null,
+	"tableid": null,
+	"ver": "23.1.17.1140",
+	"disabled": false,
+	"appType": "A",
+	"application": "planet9_adaptive_tile_table",
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"roles": [],
+	"scriptSelObj": null,
+	"scriptRunObj": null,
+	"tableObj": null
+}

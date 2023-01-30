@@ -1,0 +1,29 @@
+{
+	"id": "d21a1dab-8f95-ed11-9f5f-000d3a66e586",
+	"createdAt": "2023-01-16T11:19:44.466Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"fields": [
+		{
+			"id": "496d9d77-e430-43ae-97a1-2e8994990b23",
+			"fieldName": "Invoice",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "2517826d-a94d-4541-f1fd-d94d730024a9",
+			"fieldName": "amount",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "invoices_paid",
+	"description": null,
+	"ver": "23.1.16.1119",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"rolesRead": [],
+	"rolesWrite": []
+}
