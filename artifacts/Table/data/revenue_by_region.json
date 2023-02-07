@@ -1,0 +1,52 @@
+[
+	{
+		"id": "d87ff0da-117a-4fe4-9071-ae670945ca8c",
+		"createdAt": "1673955538465",
+		"updatedAt": "1673955538465",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Southeast",
+		"ACT": "1000000",
+		"BUD": "1100000"
+	},
+	{
+		"id": "b3868993-f324-4b94-b6fa-81d230bbe39d",
+		"createdAt": "1673955538465",
+		"updatedAt": "1673955538465",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Midwest",
+		"ACT": "1000000",
+		"BUD": "1300000"
+	},
+	{
+		"id": "a4bc9737-8d78-44c6-84ab-875c99f2abd5",
+		"createdAt": "1673955538465",
+		"updatedAt": "1673955538465",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Southwest",
+		"ACT": "1400000",
+		"BUD": "1200000"
+	},
+	{
+		"id": "5232dc1e-86dc-4d79-8c50-5b0533da268e",
+		"createdAt": "1673955538465",
+		"updatedAt": "1673955538465",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Northeast",
+		"ACT": "900000",
+		"BUD": "1400000"
+	},
+	{
+		"id": "30ff906f-1310-4f81-849c-91db5b93b445",
+		"createdAt": "1673955538465",
+		"updatedAt": "1673955538465",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Northwest",
+		"ACT": "1200000",
+		"BUD": "2600000"
+	}
+]

@@ -7,7 +7,7 @@
 	},
 	"name": "neptunesoftware-dxp-abb-executivesdashboard",
 	"description": "Dashboards for decision makers",
-	"ver": "23.1.30.161",
+	"ver": "23.2.7.1014",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
