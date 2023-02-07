@@ -1,0 +1,47 @@
+[
+	{
+		"id": "fed68a46-de52-4abc-a390-32027cab9c81",
+		"createdAt": "1673954416040",
+		"updatedAt": "1673954416040",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Invoice": "invoice2",
+		"amount": "4000"
+	},
+	{
+		"id": "a8ad51ba-d73d-4b2b-85d6-224b9bb79d96",
+		"createdAt": "1673954416040",
+		"updatedAt": "1673954416040",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Invoice": "invoice3",
+		"amount": "500"
+	},
+	{
+		"id": "5445e2fc-f7db-4388-8c5e-065a236faea6",
+		"createdAt": "1673954416040",
+		"updatedAt": "1673954416040",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Invoice": "invoice4",
+		"amount": "5000"
+	},
+	{
+		"id": "2f232266-7f7c-4fc0-89ea-95343b351a50",
+		"createdAt": "1673954416040",
+		"updatedAt": "1673954416040",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Invoice": "invoice5",
+		"amount": "2300"
+	},
+	{
+		"id": "1fbcaffa-32ad-42c2-b384-ee66f08fb127",
+		"createdAt": "1673954416040",
+		"updatedAt": "1673954416040",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Invoice": "invoice1",
+		"amount": "1000"
+	}
+]

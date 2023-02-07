@@ -1,0 +1,29 @@
+[
+	{
+		"id": "9d1ba1df-3de3-4b65-a26d-95f93e33e598",
+		"createdAt": "1673954949140",
+		"updatedAt": "1673954949140",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"upcoming": "Within 30 days",
+		"amount": "250000"
+	},
+	{
+		"id": "6488f03e-852c-4ed3-928c-7e1bca64001a",
+		"createdAt": "1673954949140",
+		"updatedAt": "1673954949140",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"upcoming": "Within 15 days",
+		"amount": "100000"
+	},
+	{
+		"id": "4bcffc46-cec2-44ee-b080-06ff187f2c4b",
+		"createdAt": "1673954949140",
+		"updatedAt": "1673954949140",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"upcoming": "Within 7 days",
+		"amount": "150000"
+	}
+]

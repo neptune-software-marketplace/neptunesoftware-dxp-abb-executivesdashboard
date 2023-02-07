@@ -1,0 +1,110 @@
+[
+	{
+		"id": "f55acb92-5e1f-4128-99a7-50f35b9c491c",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "June",
+		"sales": 10000000
+	},
+	{
+		"id": "f0c7e24d-78dc-4542-b4e6-ca11954f4030",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "April",
+		"sales": 9000000
+	},
+	{
+		"id": "e589bceb-79f1-4364-ac0a-47bb647e71c6",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "March",
+		"sales": 8000000
+	},
+	{
+		"id": "d39205df-823c-4585-b339-fff5e973a312",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "May",
+		"sales": 9100000
+	},
+	{
+		"id": "c325dde9-1f04-4d35-9ec5-d90d219e19c8",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "February",
+		"sales": 6500000
+	},
+	{
+		"id": "86230dbe-2e97-41bd-9c1b-954f24a23536",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "December",
+		"sales": 20000000
+	},
+	{
+		"id": "6f9d8a67-05c9-44c5-b505-6b1569bd6b67",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "January",
+		"sales": 6000000
+	},
+	{
+		"id": "53e2c493-66fa-43cb-9bef-8c54fc96c53a",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "November",
+		"sales": 17000000
+	},
+	{
+		"id": "4f9c1a73-80ca-413b-a798-da64583d02f5",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "Spetember",
+		"sales": 15600000
+	},
+	{
+		"id": "1510bed7-b84b-4486-b9a3-1238011fb2fb",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "October",
+		"sales": 16000000
+	},
+	{
+		"id": "11cde6dc-fcd3-46fc-80a1-85ff5bcf4274",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "August",
+		"sales": 13500000
+	},
+	{
+		"id": "03ae186f-cb16-4fe5-8052-4dff4865ed91",
+		"createdAt": "1673954911355",
+		"updatedAt": "1673954911355",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"month": "July",
+		"sales": 11000000
+	}
+]

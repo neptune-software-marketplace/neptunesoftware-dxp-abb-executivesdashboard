@@ -1,0 +1,47 @@
+[
+	{
+		"id": "786080d1-0b6f-433c-bfb0-ad58ee30ef7b",
+		"createdAt": "1673954837596",
+		"updatedAt": "1673954837596",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Midwest",
+		"Profit": "2000000"
+	},
+	{
+		"id": "46ae4f9e-4355-4a53-8957-2401a912a02b",
+		"createdAt": "1673954837596",
+		"updatedAt": "1673954837596",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Southwest",
+		"Profit": "900000"
+	},
+	{
+		"id": "36a27950-fa9f-413a-ada3-9b32f0b0fd5f",
+		"createdAt": "1673954837596",
+		"updatedAt": "1673954837596",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Northeast",
+		"Profit": "1400000"
+	},
+	{
+		"id": "0b8d00c8-3fc7-4874-9ed0-83dd9b654c89",
+		"createdAt": "1673954837596",
+		"updatedAt": "1673954837596",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Nortwest",
+		"Profit": "3000000"
+	},
+	{
+		"id": "0446aca4-da66-492e-adda-0b2a04c9fe49",
+		"createdAt": "1673954837596",
+		"updatedAt": "1673954837596",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Shoutheast",
+		"Profit": "1200000"
+	}
+]

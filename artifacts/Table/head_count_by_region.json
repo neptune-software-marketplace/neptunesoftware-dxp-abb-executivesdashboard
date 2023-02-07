@@ -20,9 +20,9 @@
 	"foreignKeys": [],
 	"name": "head_count_by_region",
 	"description": null,
-	"ver": "23.1.16.117",
+	"ver": "23.2.7.1012",
 	"enableAudit": false,
-	"includeDataInPackage": false,
+	"includeDataInPackage": true,
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"rolesRead": [],
 	"rolesWrite": []

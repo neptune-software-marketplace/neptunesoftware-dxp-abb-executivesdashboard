@@ -20,9 +20,9 @@
 	"foreignKeys": [],
 	"name": "top_products",
 	"description": null,
-	"ver": "23.1.12.1035",
+	"ver": "23.2.7.1012",
 	"enableAudit": false,
-	"includeDataInPackage": false,
+	"includeDataInPackage": true,
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"rolesRead": [],
 	"rolesWrite": []

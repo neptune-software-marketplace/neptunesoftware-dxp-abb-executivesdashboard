@@ -1,0 +1,47 @@
+[
+	{
+		"id": "c72ee4ec-790d-4e28-a071-03e347ec451c",
+		"createdAt": "1673954877978",
+		"updatedAt": "1673954877978",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"country": "Italy",
+		"Profit": "2100000"
+	},
+	{
+		"id": "9f63346f-af63-4a7a-b4b9-88e26828a847",
+		"createdAt": "1673954877978",
+		"updatedAt": "1673954877978",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"country": "USA",
+		"Profit": "5000000"
+	},
+	{
+		"id": "8d43c1f0-b17f-4fea-9145-9dd283a9b8c1",
+		"createdAt": "1673954877978",
+		"updatedAt": "1673954877978",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"country": "Spain",
+		"Profit": "1900000"
+	},
+	{
+		"id": "5c5f69dc-a99d-4c29-a990-670b565af11b",
+		"createdAt": "1673954877978",
+		"updatedAt": "1673954877978",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"country": "Germany",
+		"Profit": "2800000"
+	},
+	{
+		"id": "30c9a405-7607-44e3-9a94-c6f38cb4e61d",
+		"createdAt": "1673954877978",
+		"updatedAt": "1673954877978",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"country": "United Kingdom",
+		"Profit": "3000000"
+	}
+]

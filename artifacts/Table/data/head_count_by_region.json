@@ -1,0 +1,47 @@
+[
+	{
+		"id": "df540287-6dd4-458a-8a20-bf3673e576c4",
+		"createdAt": "1673954369084",
+		"updatedAt": "1673954369084",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Northwest",
+		"HeadCount": "1500"
+	},
+	{
+		"id": "db0884b7-c8b5-4c66-b039-d45eb67f1aa3",
+		"createdAt": "1673954369084",
+		"updatedAt": "1673954369084",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Southeast",
+		"HeadCount": "2300"
+	},
+	{
+		"id": "85ca3d2d-7422-45c6-9fef-72bd9339f61c",
+		"createdAt": "1673954369084",
+		"updatedAt": "1673954369084",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Northeast",
+		"HeadCount": "2000"
+	},
+	{
+		"id": "73f53409-294e-455a-bb96-fb55d0b6b199",
+		"createdAt": "1673954369084",
+		"updatedAt": "1673954369084",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Southwest",
+		"HeadCount": "1300"
+	},
+	{
+		"id": "2db025da-20f3-4628-ae77-faaeb0d02dd3",
+		"createdAt": "1673954369084",
+		"updatedAt": "1673954369084",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"Region": "Midwest",
+		"HeadCount": "1000"
+	}
+]
