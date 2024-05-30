@@ -34,7 +34,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "23.1.17.1220",
+	"ver": "24.05.30.0813",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -65,6 +65,7 @@
 	"imageMobileSize": null,
 	"hideFromMenu": false,
 	"roleTag": null,
+	"cockpitTileGroup": false,
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"roles": [],
 	"tiles": [
@@ -98,7 +99,7 @@
 			"id": "97c48e3a-8f92-ed11-9f5f-000d3a66e586",
 			"name": "revenue_FTE",
 			"title": null,
-			"ver": "23.1.17.1223"
+			"ver": "23.11.9.1220"
 		}
 	]
 }

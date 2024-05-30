@@ -29,7 +29,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "23.1.17.1223",
+	"ver": "23.11.9.1220",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -60,6 +60,7 @@
 	"imageMobileSize": null,
 	"hideFromMenu": false,
 	"roleTag": null,
+	"cockpitTileGroup": false,
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"roles": [],
 	"tiles": [

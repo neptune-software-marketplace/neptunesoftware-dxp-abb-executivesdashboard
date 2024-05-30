@@ -7,9 +7,19 @@
 	},
 	"name": "neptunesoftware-dxp-abb-executivesdashboard",
 	"description": "Dashboards for decision makers",
-	"ver": "23.2.7.1014",
+	"ver": "23.2.7.1031",
 	"enableCICD": true,
-	"apps": [],
+	"apps": [
+		{
+			"id": "eef87f26-661e-ef11-86d2-000d3ad88627",
+			"application": "planet9_launchpad_standard_executives_dashboard",
+			"title": "",
+			"description": "Planet 9 Launchpad ",
+			"package": {
+				"id": "F5BA8704-5C92-ED11-9F5F-000D3A66E586"
+			}
+		}
+	],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
@@ -80,6 +90,12 @@
 			"application": "planet9_adaptive_tile_chart"
 		},
 		{
+			"id": "a7ef3aa8-ff18-ef11-96f5-000d3add6b9f",
+			"name": "sales_during_year_list",
+			"description": "",
+			"application": "planet9_adaptive_list"
+		},
+		{
 			"id": "85dfb4ef-5c96-ed11-9f5f-0022489f9819",
 			"name": "invoices_paid",
 			"description": "",
@@ -130,6 +146,11 @@
 			"name": "head_count_by_region"
 		},
 		{
+			"id": "dd0505fe-fa7e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Nep_invoice_paid"
+		},
+		{
 			"id": "abe9ef52-6792-ed11-9f5f-000d3a66e586",
 			"description": null,
 			"name": "profit_by_country"
@@ -140,14 +161,44 @@
 			"name": "profit_by_region"
 		},
 		{
+			"id": "9fa3e083-fa7e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Nep_profit_by_region"
+		},
+		{
 			"id": "8b5d9149-9095-ed11-9f5f-000d3a66e586",
 			"description": null,
 			"name": "invoice_paid"
 		},
 		{
+			"id": "80ab1bf2-fa7e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Nep_head_count_by_region"
+		},
+		{
 			"id": "597e6c1e-6092-ed11-9f5f-000d3a66e586",
 			"description": null,
 			"name": "revenue_by_region"
+		},
+		{
+			"id": "507c3372-fa7e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Nep_sales_during_year"
+		},
+		{
+			"id": "4940a852-f97e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Nep_top_products"
+		},
+		{
+			"id": "3bb542ad-7cfd-ee11-aaf0-000d3adaf09c",
+			"description": null,
+			"name": "Executives dashboard V2"
+		},
+		{
+			"id": "36027244-f97e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Nep_revenue_by_region"
 		},
 		{
 			"id": "342e401c-9195-ed11-9f5f-000d3a66e586",
@@ -158,6 +209,16 @@
 			"id": "261e8631-8f92-ed11-9f5f-000d3a66e586",
 			"description": null,
 			"name": "revenue_per_FTE"
+		},
+		{
+			"id": "2535cd5e-f97e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Nep_profit_by_country"
+		},
+		{
+			"id": "241456de-fa7e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Nep_revenue_per_FTE"
 		},
 		{
 			"id": "159352b5-6096-ed11-9f5f-0022489f9819",
@@ -172,6 +233,11 @@
 	],
 	"category": [
 		{
+			"id": "f0afd74d-fa7e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Nep_sales_during_year "
+		},
+		{
 			"id": "d26013c1-8d92-ed11-9f5f-000d3a66e586",
 			"description": null,
 			"name": "executives_dashboard"
@@ -182,15 +248,25 @@
 			"name": "sales_during_year"
 		},
 		{
+			"id": "a4f1fc5e-fa7e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Nep_revenue_FTE"
+		},
+		{
 			"id": "97c48e3a-8f92-ed11-9f5f-000d3a66e586",
 			"description": null,
 			"name": "revenue_FTE"
+		},
+		{
+			"id": "902da32d-f97e-ee11-b75e-000d3a67282f",
+			"description": null,
+			"name": "Neptune Executives Dashboard"
 		}
 	],
 	"launchpad": [
 		{
-			"id": "a3d8e24f-6092-ed11-9f5f-000d3a66e586",
-			"name": "executives_dashboard",
+			"id": "d7ab366d-591e-ef11-86d2-000d3ad88627",
+			"name": "executives_dashboard_v2",
 			"description": null
 		}
 	],
@@ -245,13 +321,7 @@
 		}
 	],
 	"events": [],
-	"media_library": [
-		{
-			"id": "33665546-B7A0-ED11-994A-0022489F9953",
-			"updatedAt": "2023-01-30T16:00:54.786Z",
-			"name": "Executives Dashboard",
-			"parent": null,
-			"package": "F5BA8704-5C92-ED11-9F5F-000D3A66E586"
-		}
-	]
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
 }

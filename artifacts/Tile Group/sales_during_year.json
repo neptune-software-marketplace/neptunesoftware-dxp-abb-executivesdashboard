@@ -59,6 +59,7 @@
 	"imageMobileSize": null,
 	"hideFromMenu": false,
 	"roleTag": null,
+	"cockpitTileGroup": false,
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"roles": [],
 	"tiles": [
@@ -72,7 +73,7 @@
 			"id": "a697a57c-6292-ed11-9f5f-000d3a66e586",
 			"name": "profit_by_region",
 			"title": null,
-			"ver": "23.1.17.1222"
+			"ver": "24.05.30.0747"
 		}
 	],
 	"tilegroups": []

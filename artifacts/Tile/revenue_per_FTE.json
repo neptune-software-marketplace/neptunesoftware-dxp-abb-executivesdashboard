@@ -6,8 +6,8 @@
 	"storeItem": {},
 	"settings": {
 		"adaptive": {
-			"idTile": "83EF10E4-8E92-ED11-9F5F-000D3A66E586",
-			"id": "83EF10E4-8E92-ED11-9F5F-000D3A66E586"
+			"idTile": "83ef10e4-8e92-ed11-9f5f-000d3a66e586",
+			"id": "83ef10e4-8e92-ed11-9f5f-000d3a66e586"
 		}
 	},
 	"title": null,
@@ -80,6 +80,7 @@
 	"roleTag": null,
 	"sapICFNode": null,
 	"actionType": "F",
+	"cockpitTile": false,
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"roles": []
 }

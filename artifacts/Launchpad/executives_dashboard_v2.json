@@ -1,46 +1,31 @@
 {
-	"id": "a3d8e24f-6092-ed11-9f5f-000d3a66e586",
-	"createdAt": "2023-01-12T10:03:08.323Z",
-	"createdBy": "cezar.strugariu@neptune-software.com",
+	"id": "d7ab366d-591e-ef11-86d2-000d3ad88627",
+	"createdAt": "2024-05-30T07:51:31.533Z",
+	"createdBy": "kaan",
 	"extUserRoles": [],
 	"extUserDepartments": [],
 	"catOrder": [
 		"d26013c1-8d92-ed11-9f5f-000d3a66e586"
 	],
-	"layout": [
-		{
-			"id": "95571298-26b6-4153-d12a-8390fc04f8a9",
-			"css": [
-				"==OBJECT STRING==",
-				".sapFCard {",
-				"    border-radius: 1rem;",
-				"}"
-			],
-			"name": "Layout",
-			"active": true,
-			"style": "<style>.sapFCard {    border-radius: 1rem;}</style>",
-			"shellContentWidth": "Full",
-			"cardContentAlign": "",
-			"headerContentWidth": "Full",
-			"ui5Theme": "sap_fiori_3"
-		}
-	],
+	"layout": [],
 	"config": {
-		"enhancement": ""
+		"showAccessibilityFocusIndicator": true,
+		"enhancement": "",
+		"hideTopHeader": true
 	},
 	"enhancement": [],
-	"name": "executives_dashboard",
-	"title": "Executives Dashboard",
+	"name": "executives_dashboard_v2",
+	"title": null,
 	"description": null,
 	"startApp": null,
 	"startWebApp": null,
 	"customLogo": null,
-	"launchpadApp": "planet9_launchpad_standard",
+	"launchpadApp": "planet9_launchpad_standard_dxpdemo",
 	"hideSidemenu": false,
-	"ui5Version": null,
+	"ui5Version": "1.108",
 	"ui5Url": null,
-	"ui5Theme": null,
-	"header": null,
+	"ui5Theme": "sap_horizon",
+	"header": "",
 	"customTheme": null,
 	"isExternal": false,
 	"emailPattern": null,
@@ -62,7 +47,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "23.1.13.1037",
+	"ver": "24.05.30.0901",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -78,7 +63,7 @@
 			"id": "d26013c1-8d92-ed11-9f5f-000d3a66e586",
 			"name": "executives_dashboard",
 			"title": "Dashboard",
-			"ver": "23.1.17.1220"
+			"ver": "24.05.30.0813"
 		}
 	]
 }
