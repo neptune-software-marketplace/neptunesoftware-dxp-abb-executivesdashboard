@@ -1173,6 +1173,7 @@
 																			"fieldType": "sap.m.Button",
 																			"script": "",
 																			"customComponent": false,
+																			"disabled": true,
 																			"request": [],
 																			"response": [],
 																			"attributes": [
@@ -1208,6 +1209,7 @@
 																			"fieldType": "sap.m.Button",
 																			"script": "",
 																			"customComponent": false,
+																			"disabled": true,
 																			"request": [],
 																			"response": [],
 																			"attributes": [
@@ -1244,34 +1246,6 @@
 																					"grouping": "Events",
 																					"value": " window.open(\"https://www.neptune-software.com/contact-us\", \"_blank\");",
 																					"script": " window.open(\"https://www.neptune-software.com/contact-us\", \"_blank\");",
-																					"translation": []
-																				}
-																			],
-																			"data": []
-																		},
-																		{
-																			"fieldNo": "34a35001-b6d1-4303-de46-49c3d74241f7",
-																			"fieldName": "ButtonContactUS",
-																			"fieldParent": "2e4678cf-9016-4d24-af10-108deecd35cc",
-																			"fieldType": "nep.bootstrap.Button",
-																			"script": "",
-																			"customComponent": false,
-																			"disabled": true,
-																			"request": [],
-																			"response": [],
-																			"attributes": [
-																				{
-																					"attribute": "styleClass",
-																					"grouping": "Properties",
-																					"value": "ButtonContactUS",
-																					"script": "",
-																					"translation": []
-																				},
-																				{
-																					"attribute": "text",
-																					"grouping": "Properties",
-																					"value": "Contact us",
-																					"script": "",
 																					"translation": []
 																				}
 																			],
@@ -50812,7 +50786,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "24.05.30.0924",
+	"ver": "24.05.30.1027",
 	"application": "planet9_launchpad_standard_executives_dashboard",
 	"title": "",
 	"description": "Planet 9 Launchpad ",
