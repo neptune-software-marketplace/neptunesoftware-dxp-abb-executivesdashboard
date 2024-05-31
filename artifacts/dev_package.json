@@ -7,19 +7,9 @@
 	},
 	"name": "neptunesoftware-dxp-abb-executivesdashboard",
 	"description": "Dashboards for decision makers",
-	"ver": "23.2.7.1031",
+	"ver": "24.05.30.1030",
 	"enableCICD": true,
-	"apps": [
-		{
-			"id": "eef87f26-661e-ef11-86d2-000d3ad88627",
-			"application": "planet9_launchpad_standard_executives_dashboard",
-			"title": "",
-			"description": "Planet 9 Launchpad ",
-			"package": {
-				"id": "F5BA8704-5C92-ED11-9F5F-000D3A66E586"
-			}
-		}
-	],
+	"apps": [],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],

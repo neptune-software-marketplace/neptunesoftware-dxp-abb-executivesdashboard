@@ -56,7 +56,7 @@
 	"helpText": "<p><strong>Executives dashboard</strong></p><p><strong><br></strong></p><p>This tile consists of multiple No-Code applications displaying various data in form of charts and tables:</p><ul><li>Revenue by region.</li><li>Top Products.</li><li>Profit by country.</li><li>Sales during the year.</li><li>Profit by region.</li><li>Revenue per FTE.</li><li>Headcount by region.</li><li>Paid invoices.</li></ul><p>This dashboard offers the key decision makers, an overview of the company, therefore helping them in making decisions that will impact the future of the company.<br></p>",
 	"helpEnabled": true,
 	"openClickTile": false,
-	"ver": "24.05.30.0754",
+	"ver": "24.05.30.1034",
 	"actionWebApp": "",
 	"name": "Executives dashboard V2",
 	"cardWidth": null,

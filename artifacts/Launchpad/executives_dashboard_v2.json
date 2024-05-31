@@ -11,7 +11,7 @@
 	"config": {
 		"showAccessibilityFocusIndicator": true,
 		"enhancement": "",
-		"hideTopHeader": false
+		"hideTopHeader": true
 	},
 	"enhancement": [],
 	"name": "executives_dashboard_v2",
@@ -20,7 +20,7 @@
 	"startApp": null,
 	"startWebApp": null,
 	"customLogo": null,
-	"launchpadApp": "planet9_launchpad_standard_executives_dashboard",
+	"launchpadApp": "planet9_launchpad_standard",
 	"hideSidemenu": false,
 	"ui5Version": "1.108",
 	"ui5Url": null,
@@ -47,7 +47,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "24.05.30.1030",
+	"ver": "24.05.31.0907",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
