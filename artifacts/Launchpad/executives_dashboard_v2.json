@@ -11,7 +11,7 @@
 	"config": {
 		"showAccessibilityFocusIndicator": true,
 		"enhancement": "",
-		"hideTopHeader": true
+		"hideTopHeader": false
 	},
 	"enhancement": [],
 	"name": "executives_dashboard_v2",
@@ -47,7 +47,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "24.05.31.0907",
+	"ver": "24.05.31.0937",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
