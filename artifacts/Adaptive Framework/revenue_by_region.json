@@ -17,13 +17,16 @@
 				"searchPlaceholder": "",
 				"enableRun": false,
 				"enableCreate": false,
-				"enableDelete": false
+				"enableDelete": false,
+				"textConfirmDelete": "Do you want to delete this entry? ",
+				"titleConfirmDelete": "Delete "
 			},
 			"form": {
 				"enableCompact": false,
 				"showFilter": false,
 				"filterExpandable": true,
-				"headerExpanded": true
+				"headerExpanded": true,
+				"enableSearchWildcard": false
 			},
 			"table": {
 				"titleAlign": "center",
@@ -53,7 +56,8 @@
 				"enableCompact": false,
 				"fixedLayout": true,
 				"inset": false,
-				"headerText": "Revenue by Region"
+				"headerText": "Revenue by Region",
+				"enableAutoPopin": false
 			}
 		},
 		"fieldCatalog": [
@@ -70,12 +74,6 @@
 				"usage": "BOTH"
 			},
 			{
-				"name": "Region",
-				"label": "Region",
-				"type": "text",
-				"usage": "BOTH"
-			},
-			{
 				"name": "createdAt",
 				"label": "Created At",
 				"type": "timestamp",
@@ -84,6 +82,12 @@
 			{
 				"name": "createdBy",
 				"label": "Created By",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "Region",
+				"label": "Region",
 				"type": "text",
 				"usage": "BOTH"
 			},
@@ -132,7 +136,16 @@
 			"val": [],
 			"inclusions": {},
 			"exclusions": {}
-		}
+		},
+		"translation": {
+			"EN": {
+				"report": {},
+				"form": {},
+				"table": {},
+				"fieldCatalog": {}
+			}
+		},
+		"table": "revenue_by_region"
 	},
 	"name": "revenue_by_region",
 	"description": "",
@@ -142,10 +155,10 @@
 	"scriptSel": null,
 	"scriptRun": null,
 	"tableid": null,
-	"ver": "23.1.17.1140",
+	"ver": "25.07.07.1539",
 	"disabled": false,
 	"appType": "A",
-	"application": "planet9_adaptive_tile_table",
+	"application": "neptunedxp_adaptive_tile_table",
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"roles": [],
 	"scriptSelObj": null,

@@ -42,12 +42,18 @@
 				"searchLabel": "Search",
 				"searchPlaceholder": "",
 				"title": "Sales Report",
-				"subTitle": "Total Sales in Previous Year"
+				"subTitle": "Total Sales in Previous Year",
+				"requiredFieldsToast": "Please fill in all required fields",
+				"textConfirmDelete": "Do you want to delete this entry? ",
+				"titleConfirmDelete": "Delete",
+				"odataValueList": "Field does not have any OData ValueListReference"
 			},
 			"form": {
 				"enableCompact": false,
 				"showFilter": false,
-				"headerExpanded": true
+				"headerExpanded": true,
+				"headerPreserveState": false,
+				"enableSearchWildcard": false
 			},
 			"table": {
 				"titleAlign": "center",
@@ -89,34 +95,17 @@
 				"enableAction2": false,
 				"enableAction3": false,
 				"fixedLayout": false,
-				"inset": false
+				"inset": false,
+				"enableAutoPopin": false,
+				"enableAction4": false,
+				"enableAction5": false,
+				"action4Text": "",
+				"action4Type": "Transparent",
+				"action5Text": "",
+				"action5Type": "Transparent"
 			}
 		},
 		"fieldCatalog": [
-			{
-				"name": "createdAt",
-				"label": "Created At",
-				"type": "timestamp",
-				"usage": "BOTH"
-			},
-			{
-				"name": "createdBy",
-				"label": "Created By",
-				"type": "text",
-				"usage": "BOTH"
-			},
-			{
-				"name": "updatedAt",
-				"label": "Updated At",
-				"type": "timestamp",
-				"usage": "BOTH"
-			},
-			{
-				"name": "updatedBy",
-				"label": "Updated By",
-				"type": "text",
-				"usage": "BOTH"
-			},
 			{
 				"name": "month",
 				"label": "month",
@@ -127,6 +116,30 @@
 				"name": "sales",
 				"label": "sales",
 				"type": "integer",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedAt",
+				"label": "Updated At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdAt",
+				"label": "Created At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedBy",
+				"label": "Updated By",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdBy",
+				"label": "Created By",
+				"type": "text",
 				"usage": "BOTH"
 			}
 		],
@@ -157,7 +170,40 @@
 			"val": [],
 			"inclusions": {},
 			"exclusions": {}
-		}
+		},
+		"translation": {
+			"EN": {
+				"report": {
+					"title": "",
+					"subTitle": "",
+					"textButtonClose": "",
+					"textButtonCreate": "",
+					"textButtonExport": "",
+					"textButtonImport": "",
+					"textButtonMultiSelect": "",
+					"textButtonRun": "",
+					"searchLabel": "",
+					"searchPlaceholder": "",
+					"requiredFieldsToast": "",
+					"textConfirmDelete": "",
+					"titleConfirmDelete": "",
+					"odataValueList": ""
+				},
+				"form": {},
+				"table": {
+					"headerText": "",
+					"footerText": "",
+					"noDataText": "",
+					"action1Tooltip": "",
+					"action2Tooltip": "",
+					"action3Tooltip": "",
+					"action4Tooltip": "",
+					"action5Tooltip": ""
+				},
+				"fieldCatalog": {}
+			}
+		},
+		"table": "sales_during_year"
 	},
 	"name": "sales_during_year_list",
 	"description": "",
@@ -167,10 +213,10 @@
 	"scriptSel": null,
 	"scriptRun": null,
 	"tableid": null,
-	"ver": "24.05.23.1228",
+	"ver": "25.07.07.1540",
 	"disabled": false,
 	"appType": "A",
-	"application": "planet9_adaptive_list",
+	"application": "neptunedxp_adaptive_list",
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"roles": [],
 	"scriptSelObj": null,

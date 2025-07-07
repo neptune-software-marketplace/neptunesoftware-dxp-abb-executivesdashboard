@@ -17,13 +17,16 @@
 				"searchPlaceholder": "",
 				"enableRun": false,
 				"enableCreate": false,
-				"enableDelete": false
+				"enableDelete": false,
+				"textConfirmDelete": "Do you want to delete this entry? ",
+				"titleConfirmDelete": "Delete "
 			},
 			"form": {
 				"enableCompact": false,
 				"filterExpandable": true,
 				"headerExpanded": true,
-				"showFilter": false
+				"showFilter": false,
+				"enableSearchWildcard": false
 			},
 			"table": {
 				"showSeparators": "All",
@@ -54,22 +57,11 @@
 				"yAxisTitleEnable": true,
 				"yAxisReversed": false,
 				"yAxisStartOnTick": true,
-				"yAxisGridLineWidth": 1
+				"yAxisGridLineWidth": 1,
+				"enableAutoPopin": false
 			}
 		},
 		"fieldCatalog": [
-			{
-				"name": "Profit",
-				"label": "Profit",
-				"type": "text",
-				"usage": "BOTH"
-			},
-			{
-				"name": "country",
-				"label": "country",
-				"type": "text",
-				"usage": "BOTH"
-			},
 			{
 				"name": "createdAt",
 				"label": "Created At",
@@ -83,6 +75,12 @@
 				"usage": "BOTH"
 			},
 			{
+				"name": "Profit",
+				"label": "Profit",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
 				"name": "updatedAt",
 				"label": "Updated At",
 				"type": "timestamp",
@@ -91,6 +89,12 @@
 			{
 				"name": "updatedBy",
 				"label": "Updated By",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "country",
+				"label": "country",
 				"type": "text",
 				"usage": "BOTH"
 			}
@@ -120,7 +124,16 @@
 			"val": [],
 			"inclusions": {},
 			"exclusions": {}
-		}
+		},
+		"translation": {
+			"EN": {
+				"report": {},
+				"form": {},
+				"table": {},
+				"fieldCatalog": {}
+			}
+		},
+		"table": "profit_by_country"
 	},
 	"name": "profit_by_country",
 	"description": "",
@@ -130,10 +143,10 @@
 	"scriptSel": null,
 	"scriptRun": null,
 	"tableid": null,
-	"ver": "23.1.12.1351",
+	"ver": "25.07.07.1539",
 	"disabled": false,
 	"appType": "A",
-	"application": "planet9_adaptive_tile_table",
+	"application": "neptunedxp_adaptive_tile_table",
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"roles": [],
 	"scriptSelObj": null,

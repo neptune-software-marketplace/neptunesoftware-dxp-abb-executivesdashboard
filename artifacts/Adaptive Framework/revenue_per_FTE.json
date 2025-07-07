@@ -63,12 +63,6 @@
 		},
 		"fieldCatalog": [
 			{
-				"name": "Region",
-				"label": "Region",
-				"type": "text",
-				"usage": "BOTH"
-			},
-			{
 				"name": "ACT",
 				"label": "ACT",
 				"type": "text",
@@ -81,26 +75,32 @@
 				"usage": "BOTH"
 			},
 			{
-				"name": "updatedAt",
-				"label": "Updated At",
-				"type": "timestamp",
-				"usage": "BOTH"
-			},
-			{
 				"name": "createdAt",
 				"label": "Created At",
 				"type": "timestamp",
 				"usage": "BOTH"
 			},
 			{
-				"name": "updatedBy",
-				"label": "Updated By",
+				"name": "createdBy",
+				"label": "Created By",
 				"type": "text",
 				"usage": "BOTH"
 			},
 			{
-				"name": "createdBy",
-				"label": "Created By",
+				"name": "Region",
+				"label": "Region",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedAt",
+				"label": "Updated At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedBy",
+				"label": "Updated By",
 				"type": "text",
 				"usage": "BOTH"
 			}
@@ -131,7 +131,27 @@
 			"val": [],
 			"inclusions": {},
 			"exclusions": {}
-		}
+		},
+		"translation": {
+			"EN": {
+				"report": {
+					"title": "",
+					"textButtonCreate": "",
+					"textButtonRun": "",
+					"searchLabel": "",
+					"searchPlaceholder": "",
+					"textConfirmDelete": "",
+					"titleConfirmDelete": ""
+				},
+				"form": {},
+				"table": {
+					"headerText": "",
+					"footerText": ""
+				},
+				"fieldCatalog": {}
+			}
+		},
+		"table": "revenue_by_region"
 	},
 	"name": "revenue_per_FTE",
 	"description": "",
@@ -141,10 +161,10 @@
 	"scriptSel": null,
 	"scriptRun": null,
 	"tableid": null,
-	"ver": "23.1.12.1550",
+	"ver": "25.07.07.1539",
 	"disabled": false,
 	"appType": "A",
-	"application": "planet9_adaptive_tile_chart",
+	"application": "neptunedxp_adaptive_tile_chart",
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"roles": [],
 	"scriptSelObj": null,

@@ -15,10 +15,12 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "Dashboard",
 	"subTitle": null,
+	"menuText": null,
 	"description": null,
-	"titleAlignment": null,
 	"enableFullScreen": false,
 	"hideHeader": true,
 	"backgroundType": "cards",
@@ -67,7 +69,40 @@
 	"roleTag": null,
 	"cockpitTileGroup": false,
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
+	"openClickTile": false,
+	"groupLayoutLight": null,
+	"groupLayoutDark": null,
+	"tileLayoutLight": null,
+	"tileLayoutDark": null,
+	"cardWidth": null,
+	"cardHeight": null,
+	"tileBackgroundHeight": null,
+	"imageHeightMedia": null,
+	"imageTabletHeightMedia": null,
+	"imageMobileHeightMedia": null,
+	"imageDark": null,
+	"imageTabletDark": null,
+	"imageMobileDark": null,
+	"imageDarkHeightMedia": null,
+	"imageTabletDarkHeightMedia": null,
+	"imageMobileDarkHeightMedia": null,
+	"forceTileAttributes": false,
+	"forceGroupAttributes": false,
+	"imageDarkNone": false,
+	"imageTabletDarkNone": false,
+	"imageMobileDarkNone": false,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
+	"navbarWidth": null,
+	"sidebarWidth": null,
+	"navbarFit": null,
+	"sidebarFit": null,
+	"FIORI_STYLE": null,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "abe9ef52-6792-ed11-9f5f-000d3a66e586",
@@ -101,5 +136,7 @@
 			"title": null,
 			"ver": "23.11.9.1220"
 		}
-	]
+	],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

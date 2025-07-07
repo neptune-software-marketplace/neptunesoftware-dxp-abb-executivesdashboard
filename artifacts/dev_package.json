@@ -3,12 +3,17 @@
 	"createdAt": "2023-01-12T09:32:23.936Z",
 	"createdBy": "cezar.strugariu@neptune-software.com",
 	"git": {
-		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-executivesdashboard"
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-executivesdashboard",
+		"branch": "DXP24"
 	},
 	"name": "neptunesoftware-dxp-abb-executivesdashboard",
 	"description": "Dashboards for decision makers",
 	"ver": "24.05.30.1030",
 	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
 	"apps": [],
 	"api": [],
 	"odataSource": [],
@@ -65,61 +70,61 @@
 			"id": "e1632460-7e92-ed11-9f5f-000d3a66e586",
 			"name": "profit_by_country",
 			"description": "",
-			"application": "planet9_adaptive_tile_table"
+			"application": "neptunedxp_adaptive_tile_table"
 		},
 		{
 			"id": "def1db0a-5b96-ed11-9f5f-0022489f9819",
 			"name": "profit_by_region",
 			"description": "",
-			"application": "planet9_adaptive_tile_chart"
+			"application": "neptunedxp_adaptive_tile_chart"
 		},
 		{
 			"id": "d4d93ce5-9095-ed11-9f5f-000d3a66e586",
 			"name": "upcoming_payments",
 			"description": "",
-			"application": "planet9_adaptive_tile_chart"
+			"application": "neptunedxp_adaptive_tile_chart"
 		},
 		{
 			"id": "a7ef3aa8-ff18-ef11-96f5-000d3add6b9f",
 			"name": "sales_during_year_list",
 			"description": "",
-			"application": "planet9_adaptive_list"
+			"application": "neptunedxp_adaptive_list"
 		},
 		{
 			"id": "85dfb4ef-5c96-ed11-9f5f-0022489f9819",
 			"name": "invoices_paid",
 			"description": "",
-			"application": "planet9_adaptive_tile_chart"
+			"application": "neptunedxp_adaptive_tile_chart"
 		},
 		{
 			"id": "83ef10e4-8e92-ed11-9f5f-000d3a66e586",
 			"name": "revenue_per_FTE",
 			"description": "",
-			"application": "planet9_adaptive_tile_chart"
+			"application": "neptunedxp_adaptive_tile_chart"
 		},
 		{
 			"id": "55665396-5c96-ed11-9f5f-0022489f9819",
 			"name": "head_count_by_region",
 			"description": "",
-			"application": "planet9_adaptive_tile_chart"
+			"application": "neptunedxp_adaptive_tile_chart"
 		},
 		{
 			"id": "214ab5d7-5b96-ed11-9f5f-0022489f9819",
 			"name": "top_products",
 			"description": "",
-			"application": "planet9_adaptive_tile_chart"
+			"application": "neptunedxp_adaptive_tile_chart"
 		},
 		{
 			"id": "03c7ca5e-5b96-ed11-9f5f-0022489f9819",
 			"name": "revenue_by_region",
 			"description": "",
-			"application": "planet9_adaptive_tile_table"
+			"application": "neptunedxp_adaptive_tile_table"
 		},
 		{
 			"id": "00fce620-5c96-ed11-9f5f-0022489f9819",
 			"name": "sales_during_year",
 			"description": "",
-			"application": "planet9_adaptive_tile_chart"
+			"application": "neptunedxp_adaptive_tile_chart"
 		}
 	],
 	"api_authentication": [],
@@ -221,6 +226,7 @@
 			"name": "top_products"
 		}
 	],
+	"tile_layout": [],
 	"category": [
 		{
 			"id": "f0afd74d-fa7e-ee11-b75e-000d3a67282f",
@@ -253,11 +259,24 @@
 			"name": "Neptune Executives Dashboard"
 		}
 	],
+	"tilegroup_layout": [],
 	"launchpad": [
 		{
 			"id": "d7ab366d-591e-ef11-86d2-000d3ad88627",
 			"name": "executives_dashboard_v2",
 			"description": null
+		}
+	],
+	"launchpad_layout": [
+		{
+			"id": "ecaae877-9ee8-4820-936b-8bb1d25b0725",
+			"NAME": "executivesdashboard-layout-light",
+			"DESCR": null
+		},
+		{
+			"id": "7c38a3bd-b2fb-4455-9163-97f717cecd93",
+			"NAME": "executivesdashboard-layout-dark",
+			"DESCR": null
 		}
 	],
 	"certificates": [],
@@ -313,5 +332,7 @@
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
-	"wf_taskaction": []
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": []
 }

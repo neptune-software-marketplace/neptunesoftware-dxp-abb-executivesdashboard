@@ -40,14 +40,14 @@
 		},
 		"fieldCatalog": [
 			{
-				"name": "upcoming",
-				"label": "upcoming",
-				"type": "text",
+				"name": "createdAt",
+				"label": "Created At",
+				"type": "timestamp",
 				"usage": "BOTH"
 			},
 			{
-				"name": "amount",
-				"label": "amount",
+				"name": "createdBy",
+				"label": "Created By",
 				"type": "text",
 				"usage": "BOTH"
 			},
@@ -58,20 +58,20 @@
 				"usage": "BOTH"
 			},
 			{
-				"name": "createdAt",
-				"label": "Created At",
-				"type": "timestamp",
-				"usage": "BOTH"
-			},
-			{
 				"name": "updatedBy",
 				"label": "Updated By",
 				"type": "text",
 				"usage": "BOTH"
 			},
 			{
-				"name": "createdBy",
-				"label": "Created By",
+				"name": "amount",
+				"label": "amount",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "upcoming",
+				"label": "upcoming",
 				"type": "text",
 				"usage": "BOTH"
 			}
@@ -101,7 +101,16 @@
 			"val": [],
 			"inclusions": {},
 			"exclusions": {}
-		}
+		},
+		"translation": {
+			"EN": {
+				"report": {},
+				"form": {},
+				"table": {},
+				"fieldCatalog": {}
+			}
+		},
+		"table": "upcoming_payments"
 	},
 	"name": "upcoming_payments",
 	"description": "",
@@ -111,10 +120,10 @@
 	"scriptSel": null,
 	"scriptRun": null,
 	"tableid": null,
-	"ver": "23.1.16.1130",
+	"ver": "25.07.07.1540",
 	"disabled": false,
 	"appType": "A",
-	"application": "planet9_adaptive_tile_chart",
+	"application": "neptunedxp_adaptive_tile_chart",
 	"package": "f5ba8704-5c92-ed11-9f5f-000d3a66e586",
 	"roles": [],
 	"scriptSelObj": null,
